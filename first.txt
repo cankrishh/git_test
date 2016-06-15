@@ -1,1 +1,3 @@
-first in feature branch
+I dont want this line
+
+induce a merge conflict
